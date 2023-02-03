@@ -1,4 +1,4 @@
-# <img src="https://github.com/ProjectValence/.github/blob/main/logo.ico" width="42" height="42" style="margin-bottom: -7px; margin-right: 4px"/> **Project Valence**
+# <img src="https://github.com/ProjectValence/.github/blob/main/Profile%20Banner.png" />
 
 Valence is a modern, fast, lightweight and feature rich code editor built with Electron and React. 
 
