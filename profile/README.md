@@ -14,15 +14,17 @@ I wanted to start from scratch. And that's how Project Valence was born. It is c
 * Vite
 * TypeScript
 * Tailwind CSS
-
-## Packages :package:
-- CodeMirror 6
+* CodeMirror 6
 
 ## Development Packages :technologist:
 - Prettier
 - ESLint 
 - TypeScript
 - Concurrently
+
+## Tools Used :wrench:
+- [Microsoft Visual Studio Code](https://code.visualstudio.com)
+- [Figma](https://figma.com)
 
 # Credits
 - Template - [Maximilian Stümpfl](https://www.github.com/maxstue)'s [Vite React TypeScript Electron Starter](https://www.github.com/maxstue/vite-reactts-electron-starter) Boilerplate
