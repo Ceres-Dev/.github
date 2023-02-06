@@ -14,7 +14,7 @@ I wanted to start from scratch. And that's how Project Valence was born. It is c
 * Vite
 * TypeScript
 * Tailwind CSS
-* CodeMirror 6
+* Monaco Editor
 
 ## Development Packages :technologist:
 - Prettier
@@ -28,4 +28,4 @@ I wanted to start from scratch. And that's how Project Valence was born. It is c
 
 # Credits
 - Template - [Maximilian Stümpfl](https://www.github.com/maxstue)'s [Vite React TypeScript Electron Starter](https://www.github.com/maxstue/vite-reactts-electron-starter) Boilerplate
-- React-Codemirror - [uiw](https://www.github.com/uiwjs)
+- monaco-editor/react - [Suren Atoyan](https://github.com/suren-atoyan)
