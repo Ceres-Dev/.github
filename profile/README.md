@@ -1,4 +1,4 @@
-# <img src="https://github.com/ProjectValence/.github/blob/main/Profile%20Banner.png" />
+# <img src="https://github.com/valence-dev/.github/blob/main/Profile%20Banner.png" />
 
 Valence is a modern, fast, lightweight and feature rich code editor built with Electron and React. 
 
@@ -12,6 +12,6 @@ I wanted to start from scratch. And that's how Project Valence was born. It is c
 Atom built its editor from scratch using CoffeeScript. I wanted to go a different route. That is why I decided to use the powerful [Monaco Editor](https://microsoft.github.io/monaco-editor/) which also powers Visual Studio Code. Previously I used Codemiror for the editor but I found Monaco to have a better out of the box development experience and also has a well polished UI. I intend to add support to Valence that allows you to use your favorite VS Code extensions right inside Valence. For now I am concentrating on getting Valence to version 1.0 before June this year. Check out some useful links below in the meantime [:arrow_down:](#Useful-Linkslink)
 
 ## Useful Links:link:
-Project site - [projectvalence.github.io](https://projectvalence.github.io)
+Project site - [valence-dev.github.io](https://valence-dev.github.io)
 
-Releases - [Valence Releases](https://github.com/projectvalence/valence/releases)
+Releases - [Valence Releases](https://github.com/valence-dev/valence/releases)
