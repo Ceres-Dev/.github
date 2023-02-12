@@ -1,4 +1,4 @@
-# <img src="https://github.com/ProjectValence/.github/blob/main/Profile%20Banner.png" />
+# <img src="https://github.com/valence-dev/.github/blob/main/Profile%20Banner.png" />
 
 Valence is a modern, fast, lightweight and feature rich code editor built with Electron and React. 
 
@@ -8,22 +8,10 @@ project. There are many forks of Atom out there like [Pulsar Edit](https://pulsa
 I wanted to start from scratch. And that's how Project Valence was born. It is currently a sideproject being developed by [me](https://github.com/anantnrg)
 , a high school student.
 
-## Tech Stack :hammer_and_wrench:
-* Electron
-* React
-* Vite
-* TypeScript
-* Tailwind CSS
+## How:confused: ?
+Atom built its editor from scratch using CoffeeScript. I wanted to go a different route. That is why I decided to use the powerful [Monaco Editor](https://microsoft.github.io/monaco-editor/) which also powers Visual Studio Code. Previously I used Codemiror for the editor but I found Monaco to have a better out of the box development experience and also has a well polished UI. I intend to add support to Valence that allows you to use your favorite VS Code extensions right inside Valence. For now I am concentrating on getting Valence to version 1.0 before June this year. Check out some useful links below in the meantime [:arrow_down:](#Useful-Linkslink)
 
-## Packages :package:
-- CodeMirror 6
+## Useful Links:link:
+Project site - [valence-dev.github.io](https://valence-dev.github.io)
 
-## Development Packages :technologist:
-- Prettier
-- ESLint 
-- TypeScript
-- Concurrently
-
-# Credits
-- Template - [Maximilian Stümpfl](https://www.github.com/maxstue)'s [Vite React TypeScript Electron Starter](https://www.github.com/maxstue/vite-reactts-electron-starter) Boilerplate
-- React-Codemirror - [uiw](https://www.github.com/uiwjs)
+Releases - [Valence Releases](https://github.com/valence-dev/valence/releases)
