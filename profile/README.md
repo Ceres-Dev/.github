@@ -1,17 +1,6 @@
 # <img src="https://github.com/valence-dev/.github/blob/main/Profile%20Banner.png" />
 
-Valence is a modern, fast, lightweight and feature rich code editor built with Electron and React. 
+# Ceres
+Ceres is a modern, fast and lightweight native text editor built from scratch using OpenGL and Python. 
 
-## Why:thinking: ?
-Let's admit it, [Atom](https://github.blog/2022-06-08-sunsetting-atom/) was great and I was one of the many Atom enthusiasts who wanted to continue the development of the 
-project. There are many forks of Atom out there like [Pulsar Edit](https://pulsar-edit.dev) that use the strong foundation of Atom. But I wanted to do something different, 
-I wanted to start from scratch. And that's how Project Valence was born. It is currently a sideproject being developed by [me](https://github.com/anantnrg)
-, a high school student.
-
-## How:confused: ?
-Atom built its editor from scratch using CoffeeScript. I wanted to go a different route. That is why I decided to use the [CodeMirror Editor](https://codemirror.net). Now I am concentrating on getting Valence to version 1.0 before June this year. Check out some useful links below in the meantime [:arrow_down:](#Useful-Linkslink)
-
-## Useful Links:link:
-Project site - [valence-dev.github.io](https://valence-dev.github.io)
-
-Releases - [Valence Releases](https://github.com/valence-dev/valence/releases)
+Thanks to it being native and not Electron based (looking at you VS Code), it starts up fast and stays that way no matter the size of your project. Ceres is still in its infancy. I currently working on developing a custom GUI with OpenGL so that it will always be customizable and configurable. I plan on adding GPU rendering to speed up the UI and improve the UX. 
